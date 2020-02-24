@@ -1,0 +1,11 @@
+C:\Users\User\Documents\aula de C#\galinha\bin\Debug\netcoreapp3.1\galinha.exe
+C:\Users\User\Documents\aula de C#\galinha\bin\Debug\netcoreapp3.1\galinha.deps.json
+C:\Users\User\Documents\aula de C#\galinha\bin\Debug\netcoreapp3.1\galinha.runtimeconfig.json
+C:\Users\User\Documents\aula de C#\galinha\bin\Debug\netcoreapp3.1\galinha.runtimeconfig.dev.json
+C:\Users\User\Documents\aula de C#\galinha\bin\Debug\netcoreapp3.1\galinha.dll
+C:\Users\User\Documents\aula de C#\galinha\bin\Debug\netcoreapp3.1\galinha.pdb
+C:\Users\User\Documents\aula de C#\galinha\obj\Debug\netcoreapp3.1\galinha.csprojAssemblyReference.cache
+C:\Users\User\Documents\aula de C#\galinha\obj\Debug\netcoreapp3.1\galinha.AssemblyInfoInputs.cache
+C:\Users\User\Documents\aula de C#\galinha\obj\Debug\netcoreapp3.1\galinha.AssemblyInfo.cs
+C:\Users\User\Documents\aula de C#\galinha\obj\Debug\netcoreapp3.1\galinha.dll
+C:\Users\User\Documents\aula de C#\galinha\obj\Debug\netcoreapp3.1\galinha.pdb

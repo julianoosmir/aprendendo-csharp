@@ -1,0 +1,11 @@
+C:\Users\User\Documents\aula de C#\if\bin\Debug\netcoreapp3.1\if.exe
+C:\Users\User\Documents\aula de C#\if\bin\Debug\netcoreapp3.1\if.deps.json
+C:\Users\User\Documents\aula de C#\if\bin\Debug\netcoreapp3.1\if.runtimeconfig.json
+C:\Users\User\Documents\aula de C#\if\bin\Debug\netcoreapp3.1\if.runtimeconfig.dev.json
+C:\Users\User\Documents\aula de C#\if\bin\Debug\netcoreapp3.1\if.dll
+C:\Users\User\Documents\aula de C#\if\bin\Debug\netcoreapp3.1\if.pdb
+C:\Users\User\Documents\aula de C#\if\obj\Debug\netcoreapp3.1\if.csprojAssemblyReference.cache
+C:\Users\User\Documents\aula de C#\if\obj\Debug\netcoreapp3.1\if.AssemblyInfoInputs.cache
+C:\Users\User\Documents\aula de C#\if\obj\Debug\netcoreapp3.1\if.AssemblyInfo.cs
+C:\Users\User\Documents\aula de C#\if\obj\Debug\netcoreapp3.1\if.dll
+C:\Users\User\Documents\aula de C#\if\obj\Debug\netcoreapp3.1\if.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\aula de C#\getset\bin\Debug\netcoreapp3.1\getset.exe
+C:\Users\User\Documents\aula de C#\getset\bin\Debug\netcoreapp3.1\getset.deps.json
+C:\Users\User\Documents\aula de C#\getset\bin\Debug\netcoreapp3.1\getset.runtimeconfig.json
+C:\Users\User\Documents\aula de C#\getset\bin\Debug\netcoreapp3.1\getset.runtimeconfig.dev.json
+C:\Users\User\Documents\aula de C#\getset\bin\Debug\netcoreapp3.1\getset.dll
+C:\Users\User\Documents\aula de C#\getset\bin\Debug\netcoreapp3.1\getset.pdb
+C:\Users\User\Documents\aula de C#\getset\obj\Debug\netcoreapp3.1\getset.csprojAssemblyReference.cache
+C:\Users\User\Documents\aula de C#\getset\obj\Debug\netcoreapp3.1\getset.AssemblyInfoInputs.cache
+C:\Users\User\Documents\aula de C#\getset\obj\Debug\netcoreapp3.1\getset.AssemblyInfo.cs
+C:\Users\User\Documents\aula de C#\getset\obj\Debug\netcoreapp3.1\getset.dll
+C:\Users\User\Documents\aula de C#\getset\obj\Debug\netcoreapp3.1\getset.pdb

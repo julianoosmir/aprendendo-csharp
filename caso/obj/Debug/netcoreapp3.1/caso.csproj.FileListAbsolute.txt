@@ -1,0 +1,11 @@
+C:\Users\User\Documents\aula de C#\caso\bin\Debug\netcoreapp3.1\caso.exe
+C:\Users\User\Documents\aula de C#\caso\bin\Debug\netcoreapp3.1\caso.deps.json
+C:\Users\User\Documents\aula de C#\caso\bin\Debug\netcoreapp3.1\caso.runtimeconfig.json
+C:\Users\User\Documents\aula de C#\caso\bin\Debug\netcoreapp3.1\caso.runtimeconfig.dev.json
+C:\Users\User\Documents\aula de C#\caso\bin\Debug\netcoreapp3.1\caso.dll
+C:\Users\User\Documents\aula de C#\caso\bin\Debug\netcoreapp3.1\caso.pdb
+C:\Users\User\Documents\aula de C#\caso\obj\Debug\netcoreapp3.1\caso.csprojAssemblyReference.cache
+C:\Users\User\Documents\aula de C#\caso\obj\Debug\netcoreapp3.1\caso.AssemblyInfoInputs.cache
+C:\Users\User\Documents\aula de C#\caso\obj\Debug\netcoreapp3.1\caso.AssemblyInfo.cs
+C:\Users\User\Documents\aula de C#\caso\obj\Debug\netcoreapp3.1\caso.dll
+C:\Users\User\Documents\aula de C#\caso\obj\Debug\netcoreapp3.1\caso.pdb

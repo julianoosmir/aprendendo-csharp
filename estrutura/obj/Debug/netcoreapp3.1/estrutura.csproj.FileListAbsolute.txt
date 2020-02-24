@@ -1,0 +1,11 @@
+C:\Users\User\Documents\aula de C#\estrutura\bin\Debug\netcoreapp3.1\estrutura.exe
+C:\Users\User\Documents\aula de C#\estrutura\bin\Debug\netcoreapp3.1\estrutura.deps.json
+C:\Users\User\Documents\aula de C#\estrutura\bin\Debug\netcoreapp3.1\estrutura.runtimeconfig.json
+C:\Users\User\Documents\aula de C#\estrutura\bin\Debug\netcoreapp3.1\estrutura.runtimeconfig.dev.json
+C:\Users\User\Documents\aula de C#\estrutura\bin\Debug\netcoreapp3.1\estrutura.dll
+C:\Users\User\Documents\aula de C#\estrutura\bin\Debug\netcoreapp3.1\estrutura.pdb
+C:\Users\User\Documents\aula de C#\estrutura\obj\Debug\netcoreapp3.1\estrutura.csprojAssemblyReference.cache
+C:\Users\User\Documents\aula de C#\estrutura\obj\Debug\netcoreapp3.1\estrutura.AssemblyInfoInputs.cache
+C:\Users\User\Documents\aula de C#\estrutura\obj\Debug\netcoreapp3.1\estrutura.AssemblyInfo.cs
+C:\Users\User\Documents\aula de C#\estrutura\obj\Debug\netcoreapp3.1\estrutura.dll
+C:\Users\User\Documents\aula de C#\estrutura\obj\Debug\netcoreapp3.1\estrutura.pdb

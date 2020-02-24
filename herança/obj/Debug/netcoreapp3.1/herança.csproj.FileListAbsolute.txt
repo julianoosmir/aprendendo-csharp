@@ -1,0 +1,11 @@
+C:\Users\User\Documents\aula de C#\herança\bin\Debug\netcoreapp3.1\herança.exe
+C:\Users\User\Documents\aula de C#\herança\bin\Debug\netcoreapp3.1\herança.deps.json
+C:\Users\User\Documents\aula de C#\herança\bin\Debug\netcoreapp3.1\herança.runtimeconfig.json
+C:\Users\User\Documents\aula de C#\herança\bin\Debug\netcoreapp3.1\herança.runtimeconfig.dev.json
+C:\Users\User\Documents\aula de C#\herança\bin\Debug\netcoreapp3.1\herança.dll
+C:\Users\User\Documents\aula de C#\herança\bin\Debug\netcoreapp3.1\herança.pdb
+C:\Users\User\Documents\aula de C#\herança\obj\Debug\netcoreapp3.1\herança.csprojAssemblyReference.cache
+C:\Users\User\Documents\aula de C#\herança\obj\Debug\netcoreapp3.1\herança.AssemblyInfoInputs.cache
+C:\Users\User\Documents\aula de C#\herança\obj\Debug\netcoreapp3.1\herança.AssemblyInfo.cs
+C:\Users\User\Documents\aula de C#\herança\obj\Debug\netcoreapp3.1\herança.dll
+C:\Users\User\Documents\aula de C#\herança\obj\Debug\netcoreapp3.1\herança.pdb

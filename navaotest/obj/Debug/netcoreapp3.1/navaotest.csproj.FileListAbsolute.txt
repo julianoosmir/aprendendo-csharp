@@ -1,0 +1,11 @@
+C:\Users\User\Documents\aula de C#\navaotest\obj\Debug\netcoreapp3.1\navaotest.csprojAssemblyReference.cache
+C:\Users\User\Documents\aula de C#\navaotest\obj\Debug\netcoreapp3.1\navaotest.AssemblyInfoInputs.cache
+C:\Users\User\Documents\aula de C#\navaotest\obj\Debug\netcoreapp3.1\navaotest.AssemblyInfo.cs
+C:\Users\User\Documents\aula de C#\navaotest\bin\Debug\netcoreapp3.1\navaotest.exe
+C:\Users\User\Documents\aula de C#\navaotest\bin\Debug\netcoreapp3.1\navaotest.deps.json
+C:\Users\User\Documents\aula de C#\navaotest\bin\Debug\netcoreapp3.1\navaotest.runtimeconfig.json
+C:\Users\User\Documents\aula de C#\navaotest\bin\Debug\netcoreapp3.1\navaotest.runtimeconfig.dev.json
+C:\Users\User\Documents\aula de C#\navaotest\bin\Debug\netcoreapp3.1\navaotest.dll
+C:\Users\User\Documents\aula de C#\navaotest\bin\Debug\netcoreapp3.1\navaotest.pdb
+C:\Users\User\Documents\aula de C#\navaotest\obj\Debug\netcoreapp3.1\navaotest.dll
+C:\Users\User\Documents\aula de C#\navaotest\obj\Debug\netcoreapp3.1\navaotest.pdb

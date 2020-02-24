@@ -1,0 +1,11 @@
+C:\Users\User\Documents\aula de C#\metodos\bin\Debug\netcoreapp3.1\metodos.exe
+C:\Users\User\Documents\aula de C#\metodos\bin\Debug\netcoreapp3.1\metodos.deps.json
+C:\Users\User\Documents\aula de C#\metodos\bin\Debug\netcoreapp3.1\metodos.runtimeconfig.json
+C:\Users\User\Documents\aula de C#\metodos\bin\Debug\netcoreapp3.1\metodos.runtimeconfig.dev.json
+C:\Users\User\Documents\aula de C#\metodos\bin\Debug\netcoreapp3.1\metodos.dll
+C:\Users\User\Documents\aula de C#\metodos\bin\Debug\netcoreapp3.1\metodos.pdb
+C:\Users\User\Documents\aula de C#\metodos\obj\Debug\netcoreapp3.1\metodos.csprojAssemblyReference.cache
+C:\Users\User\Documents\aula de C#\metodos\obj\Debug\netcoreapp3.1\metodos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\aula de C#\metodos\obj\Debug\netcoreapp3.1\metodos.AssemblyInfo.cs
+C:\Users\User\Documents\aula de C#\metodos\obj\Debug\netcoreapp3.1\metodos.dll
+C:\Users\User\Documents\aula de C#\metodos\obj\Debug\netcoreapp3.1\metodos.pdb
